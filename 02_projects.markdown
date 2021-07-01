@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
-order: 1
+title: Projects
+permalink: /projects/
 ---
 
-under construction.
+Under construction.
 
 [jekyll-organization]: https://github.com/jekyll

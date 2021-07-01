@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
-order: 4
+title: About
+permalink: /about/
 ---
 
 under construction.

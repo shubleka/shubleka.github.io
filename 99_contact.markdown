@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-order: 2
+title: Contact
+permalink: /contact/
 ---
 
-Under construction.
+under construction.
 
 [jekyll-organization]: https://github.com/jekyll

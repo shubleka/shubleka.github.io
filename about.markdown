@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-about page content goes here.
-
+under construction.
 
 [jekyll-organization]: https://github.com/jekyll

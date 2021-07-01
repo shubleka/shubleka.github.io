@@ -21,7 +21,7 @@
 title: shubleka.github.io     
 # email: rrrrr
 description: >- # this means to ignore newlines until "baseurl:"
-  (c) 2021
+ 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 

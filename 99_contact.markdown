@@ -24,7 +24,7 @@ permalink: /contact/
 
       <fieldset class="pure-group">
         <label for="message">Message: </label>
-        <textarea id="message" name="message" rows="10"
+        <textarea id="message" name="message" rows="10" cols="50"
         placeholder="What's on your mind..."></textarea>
       </fieldset>
 

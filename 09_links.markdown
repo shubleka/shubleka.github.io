@@ -4,7 +4,8 @@ title: links
 permalink: /links/
 ---
 
-Hello, I am the links page.
+
+under construction.
 
 
 

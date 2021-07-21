@@ -4,4 +4,4 @@ title: about
 permalink: /about/
 ---
 
-under construction.
+Hello, I am the about page.

@@ -10,6 +10,8 @@ Description: resources for students and teachers of the AP Calculus curriculum.
 
 Link: <a href="https://ap-calc.github.io" target="_blank">ap-calc.github.io</a>
 
+---
+
 # grade curving calculator
 
 Description: a visual and numerical grade curving tool for teachers.

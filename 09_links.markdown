@@ -4,7 +4,6 @@ title: links
 permalink: /links/
 ---
 # Coding & Math
-
 **text editors/IDE-s** \[[atom](https://atom.io/)\] \[[vscode](https://code.visualstudio.com/)\] \[[vscodium](https://vscodium.com/)\] \[[sublime](https://www.sublimetext.com/)\] \[[vim](https://www.vim.org/)\]
 
 **beginners** \[[code.org](https://code.org/)\] \[[w3schools](https://www.w3schools.com/)\] 
@@ -45,8 +44,6 @@ permalink: /links/
 ---
 
 # Football Links
-\[[reddit soccer](https://reddit.com/r/soccer)\] Subreddit dedicated to the beautiful game
-
 \[[bbc sport](https://news.bbc.co.uk/sport/football/)\] Sports news from BBC
 
 \[[chelsea fc](https://www.chelseafc.com/en)\] Chelsea Football Club
@@ -54,6 +51,8 @@ permalink: /links/
 \[[uefa](https://www.uefa.com/)\] Union of European Football Associations 
 
 \[[fshf](https://fshf.org/en/)\] Federata Shqiptare e Futbollit - Football Assoc. of Albania
+
+\[[reddit soccer](https://reddit.com/r/soccer)\] Subreddit dedicated to the beautiful game
 
 ---
 

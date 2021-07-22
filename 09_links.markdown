@@ -5,7 +5,7 @@ permalink: /links/
 ---
 # Coding & Math
 
-**text editors/IDE-s** \[[atom](https://atom.io/)\] \[[vscode](https://code.visualstudio.com/)\] \[[sublime](https://www.sublimetext.com/)\] \[[vim](https://www.vim.org/)\]
+**text editors/IDE-s** \[[atom](https://atom.io/)\] \[[vscode](https://code.visualstudio.com/)\] \[[vscodium](https://vscodium.com/)\] \[[sublime](https://www.sublimetext.com/)\] \[[vim](https://www.vim.org/)\]
 
 **beginners** \[[code.org](https://code.org/)\] \[[w3schools](https://www.w3schools.com/)\] 
 

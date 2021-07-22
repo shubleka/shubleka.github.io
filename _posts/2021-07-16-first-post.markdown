@@ -10,7 +10,7 @@ public class Hello {
 
   public static void main(String[] args) {
     
-    System.out.println("Site is up running.")
+    System.out.println("Site is up and running.")
    
    }
 }

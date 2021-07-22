@@ -3,6 +3,15 @@ layout: page
 title: links
 permalink: /links/
 ---
+# Coding
+\[[w3schools](https://www.w3schools.com/)\] W3schools online web tutorials
+
+\[[javascript.info](https://javascript.info/)\] The Modern JavaScript Tutorial
+
+\[[wolfram](https://www.wolfram.com/language/fast-introduction-for-programmers/en/)\] The Wolfram Language: Intro for Programmers
+
+\[[julialang](https://julialang.org/learning/)\] Learn Julia
+
 
 # Football Links
 \[[reddit soccer](https://reddit.com/r/soccer)\] Subreddit dedicated to the beautiful game

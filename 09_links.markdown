@@ -30,7 +30,7 @@ permalink: /links/
 
 ---
 
-# World News
+# World News 
 \[[bbc news](https://news.bbc.co.uk)\] BBC News
 
 \[[the guardian](https://theguardian.com)\] The Guardian
@@ -43,7 +43,7 @@ permalink: /links/
 
 ---
 
-# Football Links
+# Football 
 \[[bbc sport](https://news.bbc.co.uk/sport/football/)\] Sports news from BBC
 
 \[[chelsea fc](https://www.chelseafc.com/en)\] Chelsea Football Club

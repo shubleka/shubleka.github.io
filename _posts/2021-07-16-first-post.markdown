@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "first blog entry"
+title:  "hello"
 date:   2021-07-16 19:56:35 -0700
 categories: blog
 ---
-
-# First Blog Entry.
 
 ``` java
 public class Hello {

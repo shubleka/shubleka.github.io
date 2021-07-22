@@ -18,7 +18,7 @@ permalink: /links/
 
 **julia** \[[julialang](https://julialang.org/learning/)\] \[[juno](https://junolab.org/)\]
 
-**markdown** \[[markdown](https://daringfireball.net/projects/markdown/)\] \[[guide](https://www.markdownguide.org/)\] \[[pandoc](https://pandoc.org/)\] 
+**markdown** \[[markdown](https://daringfireball.net/projects/markdown/)\] \[[guide](https://www.markdownguide.org/)\] \[[typora](https://typora.io/)\] \[[pandoc](https://pandoc.org/)\] 
 
 **version control** \[[git](https://git-scm.com/)\] \[[github](https://github.com/)\]
 

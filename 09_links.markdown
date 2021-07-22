@@ -7,7 +7,7 @@ permalink: /links/
 
 **text editors/IDE-s** \[[atom](https://atom.io/)\] \[[vscode](https://code.visualstudio.com/)\] \[[sublime](https://www.sublimetext.com/)\] \[[vim](https://www.vim.org/)\]
 
-**for beginners** \[[code.org](https://code.org/)\] \[[w3schools](https://www.w3schools.com/)\] 
+**beginners** \[[code.org](https://code.org/)\] \[[w3schools](https://www.w3schools.com/)\] 
 
 **javascript** \[[javascript.info](https://javascript.info/)\] \[[google apps script](https://developers.google.com/apps-script)\] 
 
@@ -25,7 +25,7 @@ permalink: /links/
 
 **wolfram** \[[wolfram language](https://www.wolfram.com/language/fast-introduction-for-programmers/en/)\] \[[mathematica](https://www.wolfram.com/mathematica/)\]
 
-**computer algebra system** \[[sagemath](https://www.sagemath.org/)\] \[[sagecell](https://sagecell.sagemath.org/) \[[geogebra](https://www.geogebra.org/)\] \[[pari gp](https://pari.math.u-bordeaux.fr/)\]
+**computer algebra system** \[[sagemath](https://www.sagemath.org/)\] \[[sagecell](https://sagecell.sagemath.org/)\] \[[geogebra](https://www.geogebra.org/)\] \[[pari gp](https://pari.math.u-bordeaux.fr/)\]
 
 **LaTeX** \[[latex](https://www.latex-project.org/)\] \[[mathjax](https://www.mathjax.org/)\] \[[beamer](https://www.overleaf.com/learn/latex/Beamer)\]
 

@@ -4,13 +4,15 @@ title: links
 permalink: /links/
 ---
 # Coding
-\[[w3schools](https://www.w3schools.com/)\] W3schools online web tutorials
+\[[w3schools](https://www.w3schools.com/)\] W3schools online web tutorials (HTML, CSS, Javascript, etc.
 
 \[[javascript.info](https://javascript.info/)\] The Modern JavaScript Tutorial
 
 \[[wolfram](https://www.wolfram.com/language/fast-introduction-for-programmers/en/)\] The Wolfram Language: Intro for Programmers
 
 \[[julialang](https://julialang.org/learning/)\] Learn Julia
+
+\[[google apps script](https://developers.google.com/apps-script)\] Google Apps Script
 
 
 # Football Links

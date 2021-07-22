@@ -7,13 +7,15 @@ permalink: /links/
 
 **text editors/IDE-s** \[[atom](https://atom.io/)\] \[[vscode](https://code.visualstudio.com/)\] \[[sublime](https://www.sublimetext.com/)\] \[[vim](https://www.vim.org/)\]
 
-**for beginners** \[[w3schools](https://www.w3schools.com/)\] 
+**for beginners** \[[code.org](https://code.org/)\] \[[w3schools](https://www.w3schools.com/)\] 
 
 **javascript** \[[javascript.info](https://javascript.info/)\] \[[google apps script](https://developers.google.com/apps-script)\] 
 
 **python** \[[python](https://www.python.org/)\] \[[colaboratory](https://colab.research.google.com/)\] \[[anaconda](https://www.anaconda.com/products/individual)\]
 
 **java** \[[learnjava](https://www.learnjavaonline.org/)\] \[[codingbat](https://codingbat.com/)\] \[[eclipse](https://www.eclipse.org/)\] \[[drjava](http://www.drjava.org/)\]  
+
+**processing** \[[processing](https://processing.org/)\] \[[fun programming](https://funprogramming.org/)\]
 
 **julia** \[[julialang](https://julialang.org/learning/)\] \[[juno](https://junolab.org/)\]
 

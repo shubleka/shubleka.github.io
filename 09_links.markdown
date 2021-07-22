@@ -3,16 +3,24 @@ layout: page
 title: links
 permalink: /links/
 ---
-# Coding
+# Coding & Math
 \[[w3schools](https://www.w3schools.com/)\] W3schools online web tutorials (HTML, CSS, Javascript, etc.
 
 \[[javascript.info](https://javascript.info/)\] The Modern JavaScript Tutorial
 
 \[[wolfram](https://www.wolfram.com/language/fast-introduction-for-programmers/en/)\] The Wolfram Language: Intro for Programmers
 
+\[[mathematica](https://www.wolfram.com/mathematica/)\] Wolfram Mathematica - computer algebra system
+
 \[[julialang](https://julialang.org/learning/)\] Learn Julia
 
 \[[google apps script](https://developers.google.com/apps-script)\] Google Apps Script
+
+\[[cocalc](https://cocalc.com/)\] Collaborative Calculation and Data Science
+
+\[[sagemath](https://www.sagemath.org/)\] SageMath - open-source mathematics software system
+
+\[[geogebra](https://www.geogebra.org/)\] GeoGebra.org - computer algebra system
 
 
 # Football Links

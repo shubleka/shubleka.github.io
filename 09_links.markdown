@@ -22,6 +22,10 @@ permalink: /links/
 
 \[[geogebra](https://www.geogebra.org/)\] GeoGebra.org - computer algebra system
 
+\[[latex](https://www.latex-project.org/)\] LaTeX – document preparation system
+
+\[[mathjax](https://www.mathjax.org/)\] MathJax - javascript engine for math content
+
 ---
 
 # World News

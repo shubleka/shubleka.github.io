@@ -12,11 +12,13 @@ permalink: /links/
 
 \[[mathematica](https://www.wolfram.com/mathematica/)\] Wolfram Mathematica - computer algebra system
 
-\[[julialang](https://julialang.org/learning/)\] Learn Julia
+\[[julialang](https://julialang.org/learning/)\] Learn Julia Programming
+
+\[[python](https://www.python.org/)\] Python Programming Language
 
 \[[google apps script](https://developers.google.com/apps-script)\] Google Apps Script
 
-\[[cocalc](https://cocalc.com/)\] Collaborative Calculation and Data Science
+\[[colaboratory](https://colab.research.google.com/)\] Colaboratory - write and execute Python in your browser.
 
 \[[sagemath](https://www.sagemath.org/)\] SageMath - open-source mathematics software system
 
@@ -25,6 +27,8 @@ permalink: /links/
 \[[latex](https://www.latex-project.org/)\] LaTeX – document preparation system
 
 \[[mathjax](https://www.mathjax.org/)\] MathJax - javascript engine for math content
+
+IDE-s: \[[vscode](https://code.visualstudio.com/)\]  \[[eclipse](https://www.eclipse.org/)\]   \[[anaconda](https://www.anaconda.com/products/individual)\]   \[[atom](https://atom.io/)\]   \[[vscodium](https://vscodium.com/)\]   \[[drjava](http://www.drjava.org/)\]   \[[sublime](https://www.sublimetext.com/)\]   \[[juno](https://junolab.org/)\]
 
 ---
 

@@ -22,6 +22,7 @@ permalink: /links/
 
 \[[geogebra](https://www.geogebra.org/)\] GeoGebra.org - computer algebra system
 
+---
 
 # Football Links
 \[[reddit soccer](https://reddit.com/r/soccer)\] Subreddit dedicated to the beautiful game

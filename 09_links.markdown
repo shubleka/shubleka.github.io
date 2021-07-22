@@ -33,7 +33,7 @@ permalink: /links/
 
 \[[euronews](https://euronews.com)\] EuroNews
 
-\\[reddit: world news](https://reddit.com/r/worldnews)\] World News subreddit
+\[[reddit: world news](https://reddit.com/r/worldnews)\] World News subreddit
 
 ---
 

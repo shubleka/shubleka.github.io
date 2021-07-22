@@ -24,6 +24,19 @@ permalink: /links/
 
 ---
 
+# World News
+\[[bbc news](https://news.bbc.co.uk)\] BBC News
+
+\[[the guardian](https://theguardian.com)\] The Guardian
+
+\[[reuters](https://reuters.com)\] Reuters
+
+\[[euronews](https://euronews.com)\] EuroNews
+
+\\[reddit: world news](https://reddit.com/r/worldnews)\] World News subreddit
+
+---
+
 # Football Links
 \[[reddit soccer](https://reddit.com/r/soccer)\] Subreddit dedicated to the beautiful game
 
@@ -35,8 +48,7 @@ permalink: /links/
 
 \[[fshf](https://fshf.org/en/)\] Federata Shqiptare e Futbollit - Football Assoc. of Albania
 
-
-
+---
 
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ifs
 ---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

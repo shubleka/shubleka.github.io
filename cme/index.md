@@ -2,7 +2,8 @@
 layout: page
 permanent: /cme/
 ---
-  
+ <html>
+  <body>
 <!-- START HERE -->
    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
@@ -60,3 +61,5 @@ permanent: /cme/
   </form>
   <script data-cfasync="false" src="form-submission-handler.js"></script>
 
+  </body>
+  </html>

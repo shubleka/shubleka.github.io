@@ -17,7 +17,7 @@ layout: page
 	startOver();
 </script>
 
-<table border=0 width="100%">
+<table border="0" width="100%">
 	<tr>
 		<td width="30%">
 <p id="playing">  </p>

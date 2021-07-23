@@ -1,11 +1,6 @@
+
 textarea {
   width: 100%;
-}
-.content-head {
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  margin: 2em 0 1em;
 }
 .is-center {
   text-align: center;

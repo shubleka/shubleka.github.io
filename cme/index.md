@@ -8,7 +8,7 @@ layout: page
    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
    <!-- Style The Contact Form How Ever You Prefer -->
-   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="../cme/style.css">
 
   <form class="gform pure-form pure-form-stacked" method="POST" data-email="example@email.net"
   action="https://script.google.com/macros/s/AKfycbzvV3Sc92zus-uVtJk0a33FNfSoK6u6NjcxlLOlqf-e77IDJWc/exec">

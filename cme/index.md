@@ -4,16 +4,7 @@ title: contact
 ---
 
 <html lang="en">
-<head>
-
- <link rel="stylesheet" type="text/css" href="../style/style.css">
-</head>
-
-
-<body>
-    
-    
-    
+<body>    
 <!-- START HERE -->
    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">

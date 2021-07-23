@@ -16,7 +16,7 @@ layout: page
  <link rel="stylesheet" type="text/css" href="../style/style.css">
 </head>
 
-	
+	<body>
 <center><h2>Iggy Foot Soccer - Team Creator</h2></center>
 
 <!-- import data: var players -->

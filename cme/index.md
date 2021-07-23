@@ -1,6 +1,7 @@
 ---
 layout: page
-title: contact form
+title: contact
+permalink: /cme/
 ---
 
 <html lang="en">

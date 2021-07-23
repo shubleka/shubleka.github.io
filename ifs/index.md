@@ -19,10 +19,10 @@ layout: page
 
 <table border=0 width="100%">
 	<tr>
-		<td>
+		<td width="30%">
 <p id="playing">  </p>
 </td>
-<td>
+<td width="70%">
 <p id="output">  </p>
 <p id="teama"> <b> Team A: </b> <br> </p>
 <p id="teamb"> <b> Team B: </b> <br> </p>

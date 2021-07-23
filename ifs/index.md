@@ -2,12 +2,11 @@
 layout: page
 ---
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 
-<!-- Project Page: Title -->
-<script src="../incl/t.txt"></script>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -16,17 +15,8 @@ layout: page
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
  <link rel="stylesheet" type="text/css" href="../style/style.css">
 </head>
-<!-- Project Page: Domain and Name -->
-<nav class="navbar navbar-default">
-  <div class="container">
 
-    <p class="nav navbar-nav navbar-left"> <script src="../incl/d.txt"></script></p>
-        <p class="nav navbar-nav navbar-right"> project: iggy foot soccer | team creator </p>
-
-  </div>
-</nav>
-
-
+	
 <center><h2>Iggy Foot Soccer - Team Creator</h2></center>
 
 <!-- import data: var players -->
@@ -88,9 +78,6 @@ layout: page
 -->
 
 
-
-<!-- Project Page: Footer-->
-<script src="../incl/f.txt"></script>
 
 </body>
 </html>

@@ -6,604 +6,613 @@ const players =
         {
             "id": "1",
             "firstname": "Jason",
-            "lastname": "Marshall",
-            "goalie": false,
+            "lastname": "Ma",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "2",
             "firstname": "Steve",
-            "lastname": "Sadler",
-            "goalie": false,
+            "lastname": "Sa",
+            "goalie": "FALSE",
             "olevel": "2",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "3",
             "firstname": "Garrett",
-            "lastname": "Marshall",
-            "goalie": true,
+            "lastname": "Ma",
+            "goalie": "TRUE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "4",
             "firstname": "Jeff",
-            "lastname": "Mangum",
-            "goalie": false,
+            "lastname": "Ma",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "5",
             "firstname": "Brian",
-            "lastname": "Pfiefle III",
-            "goalie": true,
+            "lastname": "Pf",
+            "goalie": "TRUE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "6",
             "firstname": "Joe",
-            "lastname": "Reeves",
-            "goalie": false,
+            "lastname": "Re",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "7",
             "firstname": "Farhad",
-            "lastname": "Ali Jan",
-            "goalie": false,
+            "lastname": "Al",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "8",
             "firstname": "Kiley",
-            "lastname": "Cleveland",
-            "goalie": false,
+            "lastname": "Cl",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "9",
             "firstname": "Lee Ann",
-            "lastname": "LaRue",
-            "goalie": false,
+            "lastname": "La",
+            "goalie": "FALSE",
             "olevel": "3",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "10",
             "firstname": "Denis",
-            "lastname": "Shubleka",
-            "goalie": false,
+            "lastname": "Sh",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "11",
             "firstname": "Alexis",
-            "lastname": "Marshall Pfiefle",
-            "goalie": false,
+            "lastname": "Ma",
+            "goalie": "FALSE",
             "olevel": "3",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "12",
             "firstname": "Zach",
-            "lastname": "Martins",
-            "goalie": false,
+            "lastname": "Ma",
+            "goalie": "FALSE",
             "olevel": "0",
-            "dlevel": "2",
-            "playing": true
+            "dlevel": "1",
+            "playing": "TRUE"
         },
         {
             "id": "13",
             "firstname": "Jesse",
-            "lastname": "Gadarowski",
-            "goalie": false,
+            "lastname": "Ga",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "1",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "14",
             "firstname": "Chad",
-            "lastname": "Lovell",
-            "goalie": false,
+            "lastname": "Lo",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "2",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "15",
             "firstname": "Marcus",
-            "lastname": "Allan",
-            "goalie": false,
+            "lastname": "Al",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "2",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "16",
             "firstname": "Mathias",
-            "lastname": "Correa",
-            "goalie": true,
+            "lastname": "Co",
+            "goalie": "TRUE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": true
+            "playing": "TRUE"
         },
         {
             "id": "17",
             "firstname": "Dave",
-            "lastname": "Romanowski",
-            "goalie": false,
+            "lastname": "Ro",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "3",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "18",
             "firstname": "Paul",
-            "lastname": "Gaj",
-            "goalie": true,
+            "lastname": "Ga",
+            "goalie": "TRUE",
             "olevel": "2",
             "dlevel": "1",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "19",
             "firstname": "Todd",
-            "lastname": "Soucy",
-            "goalie": false,
+            "lastname": "So",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "1",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "20",
             "firstname": "Mark",
-            "lastname": "Davis",
-            "goalie": false,
+            "lastname": "Da",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "1",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "21",
             "firstname": "Tom",
-            "lastname": "Burdsall",
-            "goalie": true,
+            "lastname": "Bu",
+            "goalie": "TRUE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "22",
             "firstname": "Luis",
-            "lastname": "\"Junior\" Llapa",
-            "goalie": false,
+            "lastname": "\"J",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "23",
             "firstname": "Casey",
-            "lastname": "Bashaw",
-            "goalie": false,
+            "lastname": "Ba",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "1",
-            "playing": true
+            "playing": "FALSE"
         },
         {
             "id": "24",
             "firstname": "Camden",
-            "lastname": "Bashaw",
-            "goalie": false,
+            "lastname": "Ba",
+            "goalie": "FALSE",
             "olevel": "3",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "25",
             "firstname": "Keyeanna",
-            "lastname": "Lingo",
-            "goalie": false,
+            "lastname": "Li",
+            "goalie": "FALSE",
             "olevel": "2",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "26",
             "firstname": "Donny",
-            "lastname": "Crowley",
-            "goalie": false,
+            "lastname": "Cr",
+            "goalie": "FALSE",
             "olevel": "2",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "27",
             "firstname": "Nadav",
-            "goalie": false,
+            "lastname": "",
+            "goalie": "FALSE",
             "olevel": "2",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "28",
             "firstname": "Todd",
-            "lastname": "Kibbe",
-            "goalie": false,
+            "lastname": "Ki",
+            "goalie": "FALSE",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "29",
             "firstname": "Suleiman",
-            "lastname": "Nuseibeh",
-            "goalie": false,
+            "lastname": "Nu",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "30",
             "firstname": "Alex",
-            "lastname": "Burke",
-            "goalie": true,
+            "lastname": "Bu",
+            "goalie": "TRUE",
             "olevel": "2",
             "dlevel": "1",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "31",
             "firstname": "Christian",
-            "lastname": "Pineda",
-            "goalie": false,
+            "lastname": "Pi",
+            "goalie": "FALSE",
             "olevel": "2",
             "dlevel": "1",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "32",
             "firstname": "Kierra",
-            "lastname": "Caissey",
-            "goalie": false,
+            "lastname": "Ca",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "33",
             "firstname": "Masao",
-            "lastname": "Okano",
-            "goalie": false,
+            "lastname": "Ok",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "1",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "34",
             "firstname": "Timmy",
-            "lastname": "Nicholson",
-            "goalie": false,
+            "lastname": "Ni",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "35",
             "firstname": "Manish",
-            "lastname": "Aryal",
-            "goalie": false,
+            "lastname": "Ar",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "36",
             "firstname": "David",
-            "lastname": "Tyler",
-            "goalie": false,
+            "lastname": "Ty",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "1",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "37",
             "firstname": "Drew",
-            "lastname": "Hastings",
-            "goalie": false,
+            "lastname": "Ha",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "1",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "38",
             "firstname": "Arnold",
-            "goalie": false,
+            "lastname": "",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "39",
             "firstname": "Alex",
-            "lastname": "Llapa",
-            "goalie": false,
+            "lastname": "Ll",
+            "goalie": "FALSE",
             "olevel": "1",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "40",
             "firstname": "Samantha",
-            "lastname": "Hutchins",
-            "goalie": false,
+            "lastname": "Hu",
+            "goalie": "FALSE",
             "olevel": "2",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "41",
             "firstname": "David",
-            "lastname": "Delvalle",
-            "goalie": false,
+            "lastname": "De",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "42",
             "firstname": "Kyle",
-            "lastname": "Donelan",
-            "goalie": false,
+            "lastname": "Do",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "43",
             "firstname": "Tristen",
-            "lastname": "Gay",
-            "goalie": false,
+            "lastname": "Ga",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "44",
             "firstname": "Angie/Julie",
-            "lastname": "Davis",
-            "goalie": false,
+            "lastname": "Da",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "45",
             "firstname": "Jake",
-            "lastname": "Hollander",
-            "goalie": false,
+            "lastname": "Ho",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "46",
             "firstname": "Matt",
-            "lastname": "Gilmore",
-            "goalie": false,
+            "lastname": "Gi",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "47",
             "firstname": "Austin",
-            "lastname": "Marshall",
-            "goalie": false,
+            "lastname": "Ma",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "48",
             "firstname": "Matt ",
-            "lastname": "Simmington",
-            "goalie": false,
+            "lastname": "Si",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "49",
             "firstname": "Victor",
             "lastname": "R",
-            "goalie": false,
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "50",
             "firstname": "Walter",
-            "goalie": false,
+            "lastname": "",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "51",
             "firstname": "Pedro",
             "lastname": "A",
-            "goalie": false,
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "52",
             "firstname": "Pinta",
-            "goalie": false,
+            "lastname": "",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "53",
             "firstname": "Alvino",
-            "goalie": false,
+            "lastname": "",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "54",
             "firstname": "Pablo",
-            "goalie": false,
+            "lastname": "",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "55",
             "firstname": "Anibal",
-            "lastname": "Flores",
-            "goalie": false,
+            "lastname": "Fl",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "56",
             "firstname": "Nate",
-            "lastname": "Shulz",
-            "goalie": false,
+            "lastname": "Sh",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "57",
             "firstname": "Sara",
-            "lastname": "Vose",
-            "goalie": false,
+            "lastname": "Vo",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "58",
             "firstname": "Carlos",
-            "lastname": "Pineda",
-            "goalie": false,
+            "lastname": "Pi",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "59",
             "firstname": "Kevin",
-            "lastname": "Rivera",
-            "goalie": false,
+            "lastname": "Ri",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "60",
             "firstname": "Ashiv",
-            "lastname": "Patel",
-            "goalie": false,
+            "lastname": "Pa",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "61",
             "firstname": "Jonny",
-            "lastname": "Vasquez",
-            "goalie": false,
+            "lastname": "Va",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "62",
             "firstname": "Franck",
-            "goalie": false,
+            "lastname": "",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "63",
             "firstname": "Jarred",
-            "goalie": false,
+            "lastname": "",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "64",
             "firstname": "Alan",
-            "goalie": false,
+            "lastname": "",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "65",
             "firstname": "Evan",
-            "lastname": "Marshall",
-            "goalie": false,
+            "lastname": "Ma",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "66",
             "firstname": "Matt",
-            "lastname": "Soucy",
-            "goalie": false,
+            "lastname": "So",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "67",
             "firstname": "Zach",
-            "lastname": "Hoefsmit",
-            "goalie": false,
+            "lastname": "Ho",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": "FALSE"
         },
         {
             "id": "68",
             "firstname": "Mostapha",
-            "lastname": "Massaee",
-            "goalie": false,
+            "lastname": "Ma",
+            "goalie": "FALSE",
             "olevel": "0",
             "dlevel": "0",
-            "playing": true
+            "playing": "FALSE"
         }
     ];
 	

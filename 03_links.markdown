@@ -8,7 +8,7 @@ permalink: /links/
 
 **beginners** \[[code.org](https://code.org/)\] \[[w3schools](https://www.w3schools.com/)\] 
 
-**javascript** \[[javascript.info](https://javascript.info/)\] \[[google apps script](https://developers.google.com/apps-script)\] 
+**javascript** \[[javascript.info](https://javascript.info/)\] \[[google apps script](https://developers.google.com/apps-script)\] \[[jquery](https://jquery.com/)\]  \[[reactjs](https://reactjs.org/)\] \[[vue](https://vuejs.org/)\] 
 
 **python** \[[python](https://www.python.org/)\] \[[colaboratory](https://colab.research.google.com/)\] \[[anaconda](https://www.anaconda.com/products/individual)\]
 

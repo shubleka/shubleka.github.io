@@ -37,7 +37,7 @@ const players =
             "goalie": false,
             "olevel": "1",
             "dlevel": "0",
-            "playing": true
+            "playing": false
         },
         {
             "id": "5",
@@ -46,7 +46,7 @@ const players =
             "goalie": true,
             "olevel": "0",
             "dlevel": "0",
-            "playing": true
+            "playing": false
         },
         {
             "id": "6",
@@ -82,7 +82,7 @@ const players =
             "goalie": false,
             "olevel": "3",
             "dlevel": "0",
-            "playing": true
+            "playing": false
         },
         {
             "id": "10",
@@ -100,7 +100,7 @@ const players =
             "goalie": false,
             "olevel": "3",
             "dlevel": "0",
-            "playing": true
+            "playing": false
         },
         {
             "id": "12",
@@ -181,7 +181,7 @@ const players =
             "goalie": false,
             "olevel": "0",
             "dlevel": "1",
-            "playing": true
+            "playing": false
         },
         {
             "id": "21",
@@ -190,7 +190,7 @@ const players =
             "goalie": true,
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": true
         },
         {
             "id": "22",
@@ -208,7 +208,7 @@ const players =
             "goalie": false,
             "olevel": "0",
             "dlevel": "1",
-            "playing": true
+            "playing": false
         },
         {
             "id": "24",
@@ -217,7 +217,7 @@ const players =
             "goalie": false,
             "olevel": "3",
             "dlevel": "0",
-            "playing": true
+            "playing": false
         },
         {
             "id": "25",
@@ -251,8 +251,8 @@ const players =
             "firstname": "Todd",
             "lastname": "Ki",
             "goalie": false,
-            "dlevel": "0",
-            "playing": false
+            "dlevel": "2",
+            "playing": true
         },
         {
             "id": "29",
@@ -315,7 +315,7 @@ const players =
             "goalie": false,
             "olevel": "1",
             "dlevel": "0",
-            "playing": false
+            "playing": true
         },
         {
             "id": "36",
@@ -594,7 +594,7 @@ const players =
             "goalie": false,
             "olevel": "0",
             "dlevel": "0",
-            "playing": false
+            "playing": true
         },
         {
             "id": "67",

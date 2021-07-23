@@ -1,3 +1,8 @@
+---
+layout: page
+title: contact
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

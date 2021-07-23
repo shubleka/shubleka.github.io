@@ -1,7 +1,7 @@
 ---
 layout: page
-permanent: /cme/
 ---
+
  <html>
   <body>
 <!-- START HERE -->

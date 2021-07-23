@@ -177,7 +177,7 @@ function startOver(){
 	document.getElementById("o3").innerHTML = " ";
 	*/
 	
-	document.getElementById("playing").innerHTML = "<u>Playing tonight (check to make sure this list is accurate?)</u> <br> ";
+	document.getElementById("playing").innerHTML = "<u>Active Roster</u> <br> ";
 	
 	document.getElementById("output").innerHTML = " ";
 	

@@ -77,7 +77,7 @@ const players =
         },
         {
             "id": "9",
-            "firstname": "Lee Ann",
+            "firstname": "LeeAnn",
             "lastname": "La",
             "goalie": false,
             "olevel": "3",
@@ -104,7 +104,7 @@ const players =
         },
         {
             "id": "12",
-            "firstname": "Zach",
+            "firstname": "ZachM",
             "lastname": "Ma",
             "goalie": false,
             "olevel": "0",
@@ -131,7 +131,7 @@ const players =
         },
         {
             "id": "15",
-            "firstname": "Marcus",
+            "firstname": "MarcusA",
             "lastname": "Al",
             "goalie": false,
             "olevel": "0",
@@ -149,7 +149,7 @@ const players =
         },
         {
             "id": "17",
-            "firstname": "Dave",
+            "firstname": "DaveR",
             "lastname": "Ro",
             "goalie": false,
             "olevel": "0",
@@ -158,7 +158,7 @@ const players =
         },
         {
             "id": "18",
-            "firstname": "Paul",
+            "firstname": "PaulG",
             "lastname": "Ga",
             "goalie": true,
             "olevel": "2",
@@ -167,7 +167,7 @@ const players =
         },
         {
             "id": "19",
-            "firstname": "Todd",
+            "firstname": "ToddS",
             "lastname": "So",
             "goalie": false,
             "olevel": "0",
@@ -176,7 +176,7 @@ const players =
         },
         {
             "id": "20",
-            "firstname": "Mark",
+            "firstname": "MarkD",
             "lastname": "Da",
             "goalie": false,
             "olevel": "0",
@@ -185,7 +185,7 @@ const players =
         },
         {
             "id": "21",
-            "firstname": "Tom",
+            "firstname": "TomB",
             "lastname": "Bu",
             "goalie": true,
             "olevel": "0",
@@ -194,7 +194,7 @@ const players =
         },
         {
             "id": "22",
-            "firstname": "Luis",
+            "firstname": "LuisL",
             "lastname": "\"J",
             "goalie": false,
             "olevel": "1",
@@ -203,7 +203,7 @@ const players =
         },
         {
             "id": "23",
-            "firstname": "Casey",
+            "firstname": "CaseyB",
             "lastname": "Ba",
             "goalie": false,
             "olevel": "0",
@@ -212,7 +212,7 @@ const players =
         },
         {
             "id": "24",
-            "firstname": "Camden",
+            "firstname": "CamdenB",
             "lastname": "Ba",
             "goalie": false,
             "olevel": "3",
@@ -230,7 +230,7 @@ const players =
         },
         {
             "id": "26",
-            "firstname": "Donny",
+            "firstname": "DonnyC",
             "lastname": "Cr",
             "goalie": false,
             "olevel": "2",
@@ -248,7 +248,7 @@ const players =
         },
         {
             "id": "28",
-            "firstname": "Todd",
+            "firstname": "ToddK",
             "lastname": "Ki",
             "goalie": false,
             "dlevel": "2",
@@ -265,7 +265,7 @@ const players =
         },
         {
             "id": "30",
-            "firstname": "Alex",
+            "firstname": "AlexB",
             "lastname": "Bu",
             "goalie": true,
             "olevel": "0",
@@ -274,7 +274,7 @@ const players =
         },
         {
             "id": "31",
-            "firstname": "Christian",
+            "firstname": "ChristianP",
             "lastname": "Pi",
             "goalie": false,
             "olevel": "0",
@@ -301,7 +301,7 @@ const players =
         },
         {
             "id": "34",
-            "firstname": "Timmy",
+            "firstname": "TimmyN",
             "lastname": "Ni",
             "goalie": false,
             "olevel": "1",
@@ -319,7 +319,7 @@ const players =
         },
         {
             "id": "36",
-            "firstname": "David",
+            "firstname": "DavidT",
             "lastname": "Ty",
             "goalie": false,
             "olevel": "1",
@@ -346,7 +346,7 @@ const players =
         },
         {
             "id": "39",
-            "firstname": "Alex",
+            "firstname": "AlexL",
             "lastname": "Ll",
             "goalie": false,
             "olevel": "1",
@@ -364,7 +364,7 @@ const players =
         },
         {
             "id": "41",
-            "firstname": "David",
+            "firstname": "DavidD",
             "lastname": "De",
             "goalie": false,
             "olevel": "0",
@@ -400,7 +400,7 @@ const players =
         },
         {
             "id": "45",
-            "firstname": "Jake",
+            "firstname": "JakeH",
             "lastname": "Ho",
             "goalie": false,
             "olevel": "0",
@@ -409,7 +409,7 @@ const players =
         },
         {
             "id": "46",
-            "firstname": "Matt",
+            "firstname": "MattG",
             "lastname": "Gi",
             "goalie": false,
             "olevel": "0",
@@ -418,7 +418,7 @@ const players =
         },
         {
             "id": "47",
-            "firstname": "Austin",
+            "firstname": "AustinM",
             "lastname": "Ma",
             "goalie": false,
             "olevel": "0",
@@ -427,7 +427,7 @@ const players =
         },
         {
             "id": "48",
-            "firstname": "Matt ",
+            "firstname": "Matt",
             "lastname": "Si",
             "goalie": false,
             "olevel": "0",
@@ -508,7 +508,7 @@ const players =
         },
         {
             "id": "57",
-            "firstname": "Sara",
+            "firstname": "SaraV",
             "lastname": "Vo",
             "goalie": false,
             "olevel": "0",
@@ -517,7 +517,7 @@ const players =
         },
         {
             "id": "58",
-            "firstname": "Carlos",
+            "firstname": "CarlosP",
             "lastname": "Pi",
             "goalie": false,
             "olevel": "0",
@@ -589,7 +589,7 @@ const players =
         },
         {
             "id": "66",
-            "firstname": "Matt",
+            "firstname": "MattS",
             "lastname": "So",
             "goalie": false,
             "olevel": "0",
@@ -598,7 +598,7 @@ const players =
         },
         {
             "id": "67",
-            "firstname": "Zach",
+            "firstname": "ZachH",
             "lastname": "Ho",
             "goalie": false,
             "olevel": "0",

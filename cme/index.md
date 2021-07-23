@@ -13,15 +13,6 @@ title: contact
 <body>
     
     
-<!-- Project Page: Domain and Name -->
-<nav class="navbar navbar-default">
-  <div class="container">
-
-    <p class="nav navbar-nav navbar-left"> <script src="../incl/d.txt"></script></p>
-        <p class="nav navbar-nav navbar-right"> contact form </p>
-
-  </div>
-</nav>
     
 <!-- START HERE -->
    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">

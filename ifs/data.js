@@ -270,7 +270,7 @@ const players =
             "goalie": true,
             "olevel": "0",
             "dlevel": "1",
-            "playing": false
+            "playing": true
         },
         {
             "id": "31",

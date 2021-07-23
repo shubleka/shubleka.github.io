@@ -267,9 +267,9 @@ const players =
             "id": "30",
             "firstname": "AlexB",
             "lastname": "Bu",
-            "goalie": true,
-            "olevel": "0",
-            "dlevel": "1",
+            "goalie": false,
+            "olevel": "2",
+            "dlevel": "0",
             "playing": true
         },
         {

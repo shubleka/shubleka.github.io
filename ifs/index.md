@@ -24,8 +24,8 @@ layout: page
 </td>
 <td>
 <p id="output">  </p>
-<p id="teama"> <b> Team A: </b> </p>
-<p id="teamb"> <b> Team B: </b> </p>
+<p id="teama"> <b> Team A: </b> <br> </p>
+<p id="teamb"> <b> Team B: </b> <br> </p>
 </td> </tr>
 </table>
 

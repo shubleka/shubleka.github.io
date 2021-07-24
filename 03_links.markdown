@@ -10,13 +10,13 @@ permalink: /links/
 
 **javascript** \[[javascript.info](https://javascript.info/)\] \[[google apps script](https://developers.google.com/apps-script)\] \[[jquery](https://jquery.com/)\]  \[[reactjs](https://reactjs.org/)\] \[[vue](https://vuejs.org/)\] 
 
-**python** \[[python](https://www.python.org/)\] \[[colaboratory](https://colab.research.google.com/)\] \[[anaconda](https://www.anaconda.com/products/individual)\]
+**python** \[[python](https://www.python.org/)\] \[[colaboratory](https://colab.research.google.com/)\] \[[jupyter](https://jupyter.org/)\]
 
 **java** \[[learnjava](https://www.learnjavaonline.org/)\] \[[codingbat](https://codingbat.com/)\] \[[eclipse](https://www.eclipse.org/)\] \[[drjava](http://www.drjava.org/)\] \[[jgrasp](https://www.jgrasp.org/)\] \[[bluej](https://www.bluej.org/)\]  
 
 **processing** \[[processing](https://processing.org/)\] \[[fun programming](https://funprogramming.org/)\]
 
-**julia** \[[julialang](https://julialang.org/learning/)\] \[[juno](https://junolab.org/)\]
+**julia** \[[julialang](https://julialang.org/learning/)\] \[[juno](https://junolab.org/)\] 
 
 **markdown** \[[markdown](https://daringfireball.net/projects/markdown/)\] \[[guide](https://www.markdownguide.org/)\] \[[typora](https://typora.io/)\] \[[pandoc](https://pandoc.org/)\] 
 
@@ -24,7 +24,9 @@ permalink: /links/
 
 **wolfram** \[[wolfram language](https://www.wolfram.com/language/fast-introduction-for-programmers/en/)\] \[[mathematica](https://www.wolfram.com/mathematica/)\]
 
-**computer algebra system** \[[sagemath](https://www.sagemath.org/)\] \[[sagecell](https://sagecell.sagemath.org/)\] \[[geogebra](https://www.geogebra.org/)\] \[[pari gp](https://pari.math.u-bordeaux.fr/)\]
+**cas** \[[sagemath](https://www.sagemath.org/)\] \[[sagecell](https://sagecell.sagemath.org/)\] \[[geogebra](https://www.geogebra.org/)\] \[[pari gp](https://pari.math.u-bordeaux.fr/)\] \[[gnu octave](https://www.gnu.org/software/octave/index#)\] \[[maxima](https://maxima.sourceforge.io/documentation.html)\]
+
+**r** \[[r-project](https://www.r-project.org/)\] \[[r-studio](https://www.rstudio.com/products/rstudio/)\] 
 
 **LaTeX** \[[latex](https://www.latex-project.org/)\] \[[mathjax](https://www.mathjax.org/)\] \[[beamer](https://www.overleaf.com/learn/latex/Beamer)\]
 

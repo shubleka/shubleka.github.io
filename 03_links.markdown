@@ -50,8 +50,6 @@ permalink: /links/
 
 \[[uefa](https://www.uefa.com/)\] Union of European Football Associations 
 
-\[[fshf](https://fshf.org/en/)\] Federata Shqiptare e Futbollit - Football Assoc. of Albania
-
 \[[reddit soccer](https://reddit.com/r/soccer)\] Subreddit dedicated to the beautiful game
 
 ---

@@ -3,12 +3,13 @@ layout: page
 title: links
 permalink: /links/
 ---
-# Coding & Math 
+# Coding & Math: Languages, Frameworks, and Tools
+
 **text editors/IDE-s** \[[atom](https://atom.io/)\] \[[vscode](https://code.visualstudio.com/)\] \[[vscodium](https://vscodium.com/)\] \[[sublime](https://www.sublimetext.com/)\] \[[vim](https://www.vim.org/)\]
 
 **beginners** \[[code.org](https://code.org/)\] \[[w3schools](https://www.w3schools.com/)\] 
 
-**javascript** \[[javascript.info](https://javascript.info/)\] \[[google apps script](https://developers.google.com/apps-script)\] \[[jquery](https://jquery.com/)\]  \[[reactjs](https://reactjs.org/)\] \[[vue](https://vuejs.org/)\] 
+**javascript** \[[javascript.info](https://javascript.info/)\] \[[apps script](https://developers.google.com/apps-script)\] \[[nodejs](https://nodejs.org/en)\] \[[jquery](https://jquery.com/)\]  \[[reactjs](https://reactjs.org/)\] \[[vue](https://vuejs.org/)\] 
 
 **python** \[[python](https://www.python.org/)\] \[[colaboratory](https://colab.research.google.com/)\] \[[jupyter](https://jupyter.org/)\]
 

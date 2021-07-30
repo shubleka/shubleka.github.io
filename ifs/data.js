@@ -28,7 +28,7 @@ const players =
             "goalie": true,
             "olevel": "0",
             "dlevel": "0",
-            "playing": true
+            "playing": false
         },
         {
             "id": "4",
@@ -37,7 +37,7 @@ const players =
             "goalie": false,
             "olevel": "1",
             "dlevel": "0",
-            "playing": false
+            "playing": true
         },
         {
             "id": "5",
@@ -109,7 +109,7 @@ const players =
             "goalie": false,
             "olevel": "0",
             "dlevel": "1",
-            "playing": true
+            "playing": false
         },
         {
             "id": "13",
@@ -127,7 +127,7 @@ const players =
             "goalie": false,
             "olevel": "0",
             "dlevel": "2",
-            "playing": true
+            "playing": false
         },
         {
             "id": "15",
@@ -181,7 +181,7 @@ const players =
             "goalie": false,
             "olevel": "0",
             "dlevel": "1",
-            "playing": false
+            "playing": true
         },
         {
             "id": "21",
@@ -190,7 +190,7 @@ const players =
             "goalie": true,
             "olevel": "0",
             "dlevel": "0",
-            "playing": true
+            "playing": false
         },
         {
             "id": "22",
@@ -252,7 +252,7 @@ const players =
             "lastname": "Ki",
             "goalie": false,
             "dlevel": "2",
-            "playing": true
+            "playing": false
         },
         {
             "id": "29",
@@ -270,7 +270,7 @@ const players =
             "goalie": false,
             "olevel": "2",
             "dlevel": "0",
-            "playing": true
+            "playing": false
         },
         {
             "id": "31",
@@ -279,7 +279,7 @@ const players =
             "goalie": false,
             "olevel": "0",
             "dlevel": "1",
-            "playing": true
+            "playing": false
         },
         {
             "id": "32",
@@ -296,7 +296,7 @@ const players =
             "lastname": "Ok",
             "goalie": false,
             "olevel": "1",
-            "dlevel": "1",
+            "dlevel": "0",
             "playing": false
         },
         {
@@ -592,7 +592,7 @@ const players =
             "firstname": "MattS",
             "lastname": "So",
             "goalie": false,
-            "olevel": "0",
+            "olevel": "3",
             "dlevel": "0",
             "playing": true
         },
@@ -601,9 +601,9 @@ const players =
             "firstname": "ZachH",
             "lastname": "Ho",
             "goalie": false,
-            "olevel": "0",
+            "olevel": "1",
             "dlevel": "0",
-            "playing": false
+            "playing": true
         },
         {
             "id": "68",
@@ -613,6 +613,42 @@ const players =
             "olevel": "0",
             "dlevel": "0",
             "playing": false
+        },
+        {
+            "id": "69",
+            "firstname": "Jorg",
+            "lastname": "B",
+            "goalie": false,
+            "olevel": "1",
+            "dlevel": "0",
+            "playing": true
+        },
+        {
+            "id": "70",
+            "firstname": "ChrisZ",
+            "lastname": "Z",
+            "goalie": false,
+            "olevel": "2",
+            "dlevel": "0",
+            "playing": true
+        },
+        {
+            "id": "71",
+            "firstname": "JonathanV",
+            "lastname": "V",
+            "goalie": false,
+            "olevel": "2",
+            "dlevel": "0",
+            "playing": true
+        },
+        {
+            "id": "72",
+            "firstname": "Sanderson",
+            "lastname": "Ma",
+            "goalie": false,
+            "olevel": "0",
+            "dlevel": "0",
+            "playing": true
         }
     ];
 	

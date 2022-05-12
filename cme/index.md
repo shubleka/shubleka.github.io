@@ -37,12 +37,12 @@ permalink: /cme/
         required placeholder="your.name@email.com"/>
       </fieldset>
 
-    <!--
+
 <fieldset class="pure-group">
         <label for="color">Favourite Color: </label>
         <input id="color" name="color" placeholder="green" />
       </fieldset>
--->
+
         
 
        <fieldset class="pure-group honeypot-field">

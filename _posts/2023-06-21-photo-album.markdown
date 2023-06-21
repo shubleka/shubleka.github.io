@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Embedding a photo album from Google Photos"
-date:   2021-07-16 19:56:35 -0700
+title:  "Acropolis & Parthenon"
+date:   2023-06-21 19:56:35 -0700
 categories: blog
 ---
 
-
+[//]: # (https://www.publicalbum.org/)
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"

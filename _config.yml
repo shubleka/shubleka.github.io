@@ -31,7 +31,7 @@ github_username:  shubleka
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+# - jekyll-feed
   - jekyll-paginate
 paginate: 3
 paginate_path: "/page-:num/"

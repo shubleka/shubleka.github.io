@@ -1,1 +1,0 @@
-document.write('<a href="https://shubleka.github.io/" target="_blank"> shubleka.github.io</a>');
